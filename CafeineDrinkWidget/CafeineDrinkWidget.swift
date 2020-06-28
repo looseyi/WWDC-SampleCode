@@ -91,7 +91,6 @@ struct CafeineDrinkWidgetEntryView : View {
                 if widgetFamily == .systemMedium, let phoneName = data.phoneName {
                     Image(phoneName).resizable()
                 }
-                WKWebView(frame: .zero)
             }
         }
     }
