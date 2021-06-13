@@ -32,4 +32,4 @@ ynm3k/ynm3k-tmp/
 snowballtrade.xcworkspace
 
 # binary framework can't be upload, only the source code, add to git status
-Pods/*
+*/Pods/*
